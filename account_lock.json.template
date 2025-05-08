@@ -1,0 +1,12 @@
+{
+    "gmail_label": "Account Locking",
+    "gmail_server": "imap.gmail.com",
+    "gmail_account": "dburrow1690@gmail.com",
+    "gmail_password": "###################",        // google "app passwords" 
+    "ifttt_webhook_key": "######################",  // google "IFTTT web-hook-key" 
+    "ifttt_event": "AccountUnlocked",
+    "recipients": {
+        "d####################": "##########",      // Key: email_address, Value: phone_number
+        "k######################": "##########"
+    }
+}
